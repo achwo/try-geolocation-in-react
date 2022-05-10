@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/try-geolocation-in-react/static/css/main.7f02ab18.css",
-    "main.js": "/try-geolocation-in-react/static/js/main.5303170c.js",
+    "main.js": "/try-geolocation-in-react/static/js/main.5c432a88.js",
     "static/js/787.32a1a7a1.chunk.js": "/try-geolocation-in-react/static/js/787.32a1a7a1.chunk.js",
     "service-worker.js": "/try-geolocation-in-react/service-worker.js",
     "index.html": "/try-geolocation-in-react/index.html",
     "main.7f02ab18.css.map": "/try-geolocation-in-react/static/css/main.7f02ab18.css.map",
-    "main.5303170c.js.map": "/try-geolocation-in-react/static/js/main.5303170c.js.map",
+    "main.5c432a88.js.map": "/try-geolocation-in-react/static/js/main.5c432a88.js.map",
     "787.32a1a7a1.chunk.js.map": "/try-geolocation-in-react/static/js/787.32a1a7a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f02ab18.css",
-    "static/js/main.5303170c.js"
+    "static/js/main.5c432a88.js"
   ]
 }
