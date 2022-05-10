@@ -2,7 +2,7 @@ import { usePosition } from "./geohook";
 import './App.css';
 import { useEffect, useState } from "react";
 
-const permissionsAvailable = "permissions" in navigator;
+// const permissionsAvailable = "permissions" in navigator;
 
 function App() {
   const { position, geoAvailable, error } = usePosition({ watch: true });

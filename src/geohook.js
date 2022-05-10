@@ -32,7 +32,7 @@ export function usePosition({ watch = false }) {
 
     const watchId = geo.watchPosition(onChange, onError, options);
     return () => geo.clearWatch(watchId);
-  }, [geo, geoAvailable, setPosition]);
+  }, [setPosition, watch]);
 
 
   // {
